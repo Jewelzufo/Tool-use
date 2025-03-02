@@ -23,8 +23,6 @@ We encourage contributions and suggestions for new tools and improvements to exi
 
 Explore the tools, experiment with the commands, and discover the insights they can provide. We hope these tool prompts serve as a valuable resource for your analytical and visualization needs.
 
-Happy analyzing! 🚀📊
-
 ---
 
 # Tool List
